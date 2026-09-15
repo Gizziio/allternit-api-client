@@ -22,8 +22,7 @@ npm run build
 | Path | Purpose |
 |------|---------|
 | `src/` | TypeScript source (`index.ts`) |
-| `dist/` | Compiled JS + type declarations |
-| `allternit-api-client/` | Duplicate source tree (legacy) |
+| `dist/` | Compiled JS + type declarations (build output, untracked) |
 
 ## Conventions
 
