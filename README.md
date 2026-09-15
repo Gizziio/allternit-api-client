@@ -1,4 +1,5 @@
 # Allternit API Client
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Official JavaScript/TypeScript client for the Allternit platform API.
 
@@ -128,4 +129,5 @@ try {
 
 ## License
 
-MIT
+Apache License 2.0 — see [LICENSE](LICENSE). Copyright 2026 Allternit LLC.
+Allternit, Gizzi, and A:// are trademarks of Allternit LLC (see [NOTICE](NOTICE)).
